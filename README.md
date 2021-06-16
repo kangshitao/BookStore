@@ -1,7 +1,8 @@
 # BookStore
 基于JSP+Sevlet+MySQL的简易书城项目
 
-参考自[JavaWeb基础教程](https://www.bilibili.com/video/BV1Y7411K7zz)
+参考自[尚硅谷JavaWeb基础教程](https://www.bilibili.com/video/BV1Y7411K7zz)
+
 主要功能：
 * 用户创建，登陆注册校验
 * 图书管理，增删查改图书
